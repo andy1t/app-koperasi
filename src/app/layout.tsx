@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Koperasi Eka Hospital",
-  description: "Koperasi Eka Hospital Management System",
+  title: "Kopkar Eka Hospital PKU",
+  description: "Kopkar Eka Hospital PKU Management System",
   icons: {
     icon: "/koperasi.ico",
   },
